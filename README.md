@@ -45,7 +45,9 @@ Turning your old phones into high-performance Klipper host machine running on De
 - Samsung Galaxy Grand Max ([samsung-grandmax](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi_Redmi2))
 - Samsung Galaxy J5 (2015) ([samsung-j5](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi_Redmi2))
 - Samsung Galaxy S4 Mini Value Edition ([samsung-serranove](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi_Redmi2))
-- No model for your device? No problem! [Porting Tutorial](https://github.com/umeiko/KlipperPhonesLinux/blob/main/LinuxKernels)
+- Xiaomi Mi 9T / Redmi K20 ([xiaomi-Davinci](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/xiaomi-davinci-ubuntu24.04))
+- No model for your device? No problem! [Porting Tutorial](https://github.com/umeiko/KlipperPhonesLinux/blob/main/LinuxKernels) 
+
 ## Flashing Instructions:
 - [Xiaomi Redmi 2](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi_Redmi2)
 - [Xiaomi Qualcomm 625 Models](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi_msm8953_Phones)
